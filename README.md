@@ -98,8 +98,8 @@
 ### 1. 저장소 클론
 
 ```shellscript
-git clone https://github.com/your-username/swibee-wireframes.git
-cd swibee-wireframes
+https://github.com/janga22/swibee-ui.git
+cd swibee-ui
 ```
 
 ### 2. 의존성 설치
